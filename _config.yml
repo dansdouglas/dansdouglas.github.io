@@ -21,14 +21,14 @@ repository               : "dansdouglas/dansdouglas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "GSA Body-Shot (1).jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Public Policy PhD Research Assistant, Environmental Policy"
+  location         : "Catonsville, Maryland"
+  employer         : "University of Maryland, School of Public Policy"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dadoug1@umbc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
