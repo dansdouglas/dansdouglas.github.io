@@ -52,7 +52,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% [https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/docs/20230406-proposed-chnms-report.pdf)] %}
+    {% https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/docs/20230406-proposed-chnms-report.pdf %}
   {% endfor %}</ul>
   
 Talks
